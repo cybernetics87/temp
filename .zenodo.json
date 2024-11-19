@@ -8,18 +8,5 @@
   ],
   "license": "MIT",
   "title": "Temp: Temporary Repo",
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "https://github.com/cybernetics87/temp/tree/v1.0.1",
-      "resource_type": "software"
-    }, 
-    {
-      "relation": "IsDescribedBy", 
-      "identifier": "arXiv:2411.11826", 
-      "resource_type": "publication"
-    }
-  ],
-  "keywords": ["Python", "Computer Science", "Machine Learning"],
-  "version": "v1.0.1"
+  "keywords": ["Python", "Computer Science", "Machine Learning"]
 }
