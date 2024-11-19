@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Temp: Temporary Repo"
+message: "If you use this software, please cite the software."
+type: software
+authors:
+  - given-names: Given
+    family-names: Family
+    email: given.family@temp.com
+    affiliation: TEMP
+    orcid: 'https://orcid.org/0000-0001-9530-0353'
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.71772
+    description: Zenodo archive
+repository-code: 'https://github.com/cybernetics87/temp'
+url: 'https://github.com/cybernetics87/temp'
+license: MIT
+version: 1.0.0
+date-released: '2024-11-19'
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Given"
+    given-names: "Family"
+  - family-names: "GivenTwo"
+    given-names: "FamilyTwo"
+  title: "Paper on Temporary Repo"
+  year: 2024
+  month: 11
+  journal: "arXiv"
+  doi: "10.48550/arXiv.2411.11826"
+  url: "https://arxiv.org/abs/2411.11826"
+  publisher: 
+    name: "arXiv"
