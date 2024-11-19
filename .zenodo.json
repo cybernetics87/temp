@@ -1,6 +1,4 @@
 {
-  "upload_type": "software",
-  "publication_date": "2024-07-19",
   "creators": [
     {
       "name": "Family, Given",
@@ -23,8 +21,5 @@
     },
   ],
   "keywords": ["Python", "Computer Science", "Machine Learning"],
-  "description": "Full description:\u00a0 goes here (update to 1.0.1) \n\nFull Changelog: see changelog",
-  "notes": "If you use this software, please cite the software.",
-  "version": "v1.0.1",
-  "language": "eng"
+  "version": "v1.0.1"
 }
