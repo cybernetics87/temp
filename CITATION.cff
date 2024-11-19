@@ -10,13 +10,13 @@ authors:
     orcid: 'https://orcid.org/0000-0001-9530-0353'
 identifiers:
   - type: doi
-    value: 10.5072/zenodo.71772
+    value: 10.5072/zenodo.134189
     description: Zenodo archive
 repository-code: 'https://github.com/cybernetics87/temp'
 url: 'https://github.com/cybernetics87/temp'
 license: MIT
-version: 1.0.0
-date-released: '2024-11-19'
+version: 1.0.1
+date-released: '2024-11-20'
 preferred-citation:
   type: article
   authors:

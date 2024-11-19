@@ -1,0 +1,119 @@
+{
+  "creators": [
+    {
+      "affiliation": [
+        {
+          "name": "TEMP"
+        }
+      ],
+      "familyName": "Family",
+      "givenName": "Given",
+      "name": "Family, Given",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0001-9530-0353",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "nameType": "Personal"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2024-07-19",
+      "dateType": "Issued"
+    },
+    {
+      "date": "2024-11-19",
+      "dateInformation": "Update from 1.0.0 to 1.0.1",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Full description:\u00a0 goes here (update to 1.0.1) \n\nFull Changelog: https://github.com/cybernetics87/temp/commits/v1.0.0",
+      "descriptionType": "Abstract"
+    },
+    {
+      "description": "If you use this software, please cite the software.",
+      "descriptionType": "Other"
+    }
+  ],
+  "fundingReferences": [
+    {
+      "awardNumber": "12345",
+      "awardTitle": "Grant title - Temp",
+      "funderName": "Azerbaijan Research Educational Network Association"
+    }
+  ],
+  "identifiers": [
+    {
+      "identifier": "https://sandbox.zenodo.org/records/134190",
+      "identifierType": "URL"
+    },
+    {
+      "identifier": "10.5072/zenodo.134190",
+      "identifierType": "DOI"
+    },
+    {
+      "identifier": "oai:zenodo.org:134190",
+      "identifierType": "oai"
+    }
+  ],
+  "language": "eng",
+  "publicationYear": "2024",
+  "publisher": "Zenodo",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "https://github.com/cybernetics87/temp/tree/v1.0.1",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsSupplementTo",
+      "resourceTypeGeneral": "Software"
+    },
+    {
+      "relatedIdentifier": "arXiv:2411.11826",
+      "relatedIdentifierType": "arXiv",
+      "relationType": "IsDescribedBy",
+      "resourceTypeGeneral": "Preprint"
+    },
+    {
+      "relatedIdentifier": "10.5072/zenodo.134189",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsVersionOf"
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "MIT License",
+      "rightsIdentifier": "mit",
+      "rightsIdentifierScheme": "spdx",
+      "rightsUri": "https://opensource.org/licenses/MIT"
+    }
+  ],
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "subjects": [
+    {
+      "subject": "Python"
+    },
+    {
+      "subject": "Computer vision",
+      "subjectScheme": "EuroSciVoc"
+    },
+    {
+      "subject": "Computer Science"
+    },
+    {
+      "subject": "Machine Learning"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Temp: Temporary Repo"
+    }
+  ],
+  "types": {
+    "resourceType": "",
+    "resourceTypeGeneral": "Software"
+  },
+  "version": "v1.0.1"
+}
