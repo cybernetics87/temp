@@ -18,7 +18,7 @@
       "relation": "IsDescribedBy", 
       "identifier": "arXiv:2411.11826", 
       "resource_type": "publication"
-    },
+    }
   ],
   "keywords": ["Python", "Computer Science", "Machine Learning"],
   "version": "v1.0.1"
