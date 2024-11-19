@@ -15,14 +15,14 @@
   "notes": "If you use this software, please cite the software.",
   "related_identifiers": [
     {
-      'relation': 'isSupplementTo', 
-      'identifier': 'https://github.com/cybernetics87/temp/tree/v1.0.1',
-      'resource_type': 'Software'
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/cybernetics87/temp/tree/v1.0.1",
+      "resource_type": "Software"
     }, 
     {
-      'relation': 'IsDescribedBy', 
-      'identifier': 'arXiv:2411.11826', 
-      'resource_type': 'arXiv'
+      "relation": "IsDescribedBy", 
+      "identifier": "arXiv:2411.11826", 
+      "resource_type": "arXiv"
     },
   ],
   "version": "v1.0.1",
